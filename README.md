@@ -22,7 +22,7 @@
 <h3>Copy</h3>
 <p>You can feel free to copy the page</p>
 
-<p>Você vai precisar do <a href="https://git-scm.com">Git</a> instalado na sua maquina</p>
+<p>You will need <a href="https://git-scm.com">Git</a> installed on your machine</p>
 <p>In addition, it is good to have an editor to work with the code as <a href="https://code.visualstudio.com/">VSCode</a></p>
 
 <h3>Clone this repository</h3>
